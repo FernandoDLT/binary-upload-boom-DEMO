@@ -1,0 +1,107 @@
+[33mcommit 9039bfa141b04b4c5af8c5777adec176e4b1d006[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: FernandoDLT <96254499+FernandoDLT@users.noreply.github.com>
+Date:   Mon Aug 21 22:23:15 2023 -0500
+
+    updated cloudinary creds
+
+[33mcommit 3fcdc390a30ce64dba4b5fb5f8f6d40ba3bb711b[m
+Author: FernandoDLT <96254499+FernandoDLT@users.noreply.github.com>
+Date:   Mon Aug 21 21:52:07 2023 -0500
+
+    Modified cloudinary
+
+[33mcommit 48fe884c7e8e33ee7b9485e3734e9742f9f64f86[m
+Author: FernandoDLT <96254499+FernandoDLT@users.noreply.github.com>
+Date:   Mon Aug 21 21:49:58 2023 -0500
+
+    Added middleware
+
+[33mcommit ea33b83e1b6702c5ad00d10273981c99434512c5[m
+Author: FernandoDLT <96254499+FernandoDLT@users.noreply.github.com>
+Date:   Sun Aug 20 21:46:10 2023 -0500
+
+    Added middleware and json package
+
+[33mcommit a75bd3d23e1cd888e4c19d54f7e87f716d9da5aa[m
+Author: Leon Noel <leon.a.noel+github@gmail.com>
+Date:   Thu Sep 8 15:36:16 2022 -0700
+
+    added auth logout fix
+
+[33mcommit 6a10e59c8cc0ff738fa57dd5d97413e85b0ec82f[m
+Author: Leon Noel <leon.a.noel+github@gmail.com>
+Date:   Tue Sep 6 13:19:15 2022 -0700
+
+    updated readme
+
+[33mcommit 89fe289f737912cc934be6a9fbbd07de4ec35163[m
+Author: Leon Noel <leon.a.noel+github@gmail.com>
+Date:   Tue Sep 6 13:17:23 2022 -0700
+
+    updated multer to fix dependancy vuln based on dicer and removed .vscode settings
+
+[33mcommit c34e52cc00f96ffc37f228a9e98ebda0c5bf9dc0[m
+Author: Leon Noel <leon.a.noel+github@gmail.com>
+Date:   Wed Apr 28 16:48:25 2021 -0700
+
+    removed md sm ect from bootstrap classes in ejs
+
+[33mcommit 56d9d11f5d4c5c5805ec6707742ecf2df57675ce[m
+Author: Leon Noel <leon.a.noel+github@gmail.com>
+Date:   Wed Apr 28 15:27:11 2021 -0700
+
+    readme update
+
+[33mcommit 89bb5c8cf7dabd8dfa0c70b79d12b23150a22067[m
+Author: Leon Noel <leon.a.noel+github@gmail.com>
+Date:   Wed Apr 28 15:22:37 2021 -0700
+
+    updated readme to include cloudinary env info
+
+[33mcommit af8b75a0fdef6d255d9aa8d2e5d105a2bfc161fb[m
+Author: Leon Noel <leon.a.noel+github@gmail.com>
+Date:   Wed Apr 28 15:17:10 2021 -0700
+
+    delete images from cloudinary when deleting post
+
+[33mcommit de9dee3570031d06d6215d7b9f6b6b91fb13da5d[m
+Author: Leon Noel <leon.a.noel+github@gmail.com>
+Date:   Wed Apr 28 15:02:07 2021 -0700
+
+    added cloudinary for image uploads
+
+[33mcommit 6fec7e66a434558495f3b2ec6e353e000f07ea55[m
+Author: Leon Noel <leon.a.noel+github@gmail.com>
+Date:   Tue Apr 27 13:58:17 2021 -0700
+
+    added multer
+
+[33mcommit e79ac260f470f22be8b20f2386fc78b09c82bc71[m
+Author: Leon Noel <leon.a.noel+github@gmail.com>
+Date:   Tue Apr 27 13:57:07 2021 -0700
+
+    added bcrypt
+
+[33mcommit d2c03500b4ca7e4cd1dd6cedf769609a07cb9c8c[m
+Author: Leon Noel <leon.a.noel+github@gmail.com>
+Date:   Tue Apr 27 13:55:53 2021 -0700
+
+    added validator
+
+[33mcommit 8500398a120425bf62c2de5fb2fc369deb97750d[m
+Author: Leon Noel <leon.a.noel+github@gmail.com>
+Date:   Tue Apr 27 13:54:33 2021 -0700
+
+    added express-flash
+
+[33mcommit 6f07db44fc6f304fb2ed0d1b2449ffc48701c151[m
+Author: Leon Noel <leon.a.noel+github@gmail.com>
+Date:   Tue Apr 27 13:44:00 2021 -0700
+
+    added readme
+
+[33mcommit 95361a05e13bcb495211cf3c3204f69d7523ce5a[m
+Author: Leon Noel <leon.a.noel+github@gmail.com>
+Date:   Tue Apr 27 13:31:26 2021 -0700
+
+    working build
